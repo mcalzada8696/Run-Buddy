@@ -58,7 +58,51 @@ footer {
   footer a {
     color: #000080;
   }
+  .hero {
+    background-image: url("../images/hero.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+  .hero-form {
+    border: 1px solid #000080;
+    background-color: #fff0f5;
+    padding: 20px;
+    width: 500px;
+    color: #000080;
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
+  }
+  .hero-form p {
+    margin: 5px 0 15px 0;
+  }
+  .hero-form label {
+    margin: 0 5px;
+  }
+  .hero-form button {
+    color: #fff0f5;
+    background-color: #000080;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  .form-input {
+    border: 1px solid #000080;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: #000080;
+    width: 100%;
+    margin-bottom: 15px;
+
+
+  }
 section {
   padding: 60px;
-  background-image: url(".../images/hero-bg.jpg");
+}
+hero-form h3 {
+  margin: 0;
+  font-size: 20px;
 }
