@@ -106,3 +106,55 @@ hero-form h3 {
   margin: 0;
   font-size: 20px;
 }
+.intro {
+  text-align: center;
+  background: #ffffff;
+}
+.intro p {
+  display: inline-block;
+  line-height: 1.7;
+  color: #000080;
+  width: 80%;
+  font-size: 20px; 
+}
+.two {
+  text-align: center;
+  background: #ffffff;
+}
+.three {
+  text-align: center;
+  background: #ffffff;
+}
+.three p {
+  display: inline-block;
+  line-height: 1.7;
+  color: #000080;
+  width: 80%;
+  font-size: 20px; 
+}
+.four {
+  text-align: center;
+  background: #ffffff;
+}
+.four p {
+  display: inline-block;
+  line-height: 1.7;
+  color: #000080;
+  width: 80%;
+  font-size: 20px; 
+}
+.section-title {
+  font-size: 55px;
+  color: #000080;
+  margin-bottom: 35px;
+  padding: 0 100px 20px 100px;
+  border-bottom: 3px solid;
+}
+
+.primary-border {
+  border-color: #fce138;
+}
+
+.secondary-border {
+  border-color: #39a6b2;
+}
